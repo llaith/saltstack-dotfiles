@@ -3,12 +3,13 @@ base:
         - setup
         - git
         - zsh
+        - php
         - composer
         - chrome
-        - fonts
 
     'G@os_family:Debian':
         - i3
+        - fonts
 
     'G@os:MacOS':
         - osx
